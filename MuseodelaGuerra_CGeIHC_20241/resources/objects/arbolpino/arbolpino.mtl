@@ -1,0 +1,45 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 22.11.2023 15:55:11
+
+newmtl Sequoia_3_Material__2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Sequoia_sempervirens_bark_1_Diffuse.png
+	map_Kd Sequoia_sempervirens_bark_1_Diffuse.png
+
+newmtl Sequoia_3_Material__3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Sequoia_sempervirens_bark_1_Diffuse.png
+	map_Kd Sequoia_sempervirens_bark_1_Diffuse.png
+
+newmtl Sequoia_3_Material__4
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Sequoia_sempervirens_leaf_1_01_diffuse.png
+	map_Kd Sequoia_sempervirens_leaf_1_01_diffuse.png
+	map_d Sequoia_sempervirens_leaf_1_06_mask.png
