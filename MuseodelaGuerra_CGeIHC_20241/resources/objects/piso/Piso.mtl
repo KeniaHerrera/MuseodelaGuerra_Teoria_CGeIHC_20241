@@ -1,0 +1,11 @@
+newmtl blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pisoq.jpg
+//map_kd pavimento1.jpg
+//textura-modelo-ladrillo-cruzado.jpg
+//TexturesCom_GravelCobble0019_7_S.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
